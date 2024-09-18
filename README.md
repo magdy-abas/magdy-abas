@@ -25,12 +25,10 @@ I'm a passionate front-end developer specializing in the Angular framework. I en
 - Any exciting front-end development projects
 
 ## 📫 How to Reach Me
-<!-- 
+
 - Email:  [magdyabas40@gmail.com](magdyabas40@gmail.com)
 - LinkedIn:  [https://www.linkedin.com/in/magdy-abas-b718642a8/](https://www.linkedin.com/in/magdy-abas-b718642a8/)*/
--->
-## 😄 Pronouns
-He/Him
+
 
 ## ⚡ Fun Fact
 I'm a great cook and love experimenting with new recipes!
