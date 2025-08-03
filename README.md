@@ -10,12 +10,6 @@ I'm a passionate front-end developer specializing in the Angular framework. I en
 - Progressive Web Apps (PWAs)
 - Web performance optimization
 
-## 🌱 Currently Learning
-- Advanced Angular techniques and best practices
-- State management with NgRx
-- Server-side rendering with Angular Universal
-- WebAssembly
-- Integrating AI and machine learning in front-end development
 
 ## 💞️ Looking to Collaborate On
 - Open source Angular projects
@@ -27,7 +21,7 @@ I'm a passionate front-end developer specializing in the Angular framework. I en
 ## 📫 How to Reach Me
 
 - Email:  [magdyabas40@gmail.com](magdyabas40@gmail.com)
-- LinkedIn:  [https://www.linkedin.com/in/magdy-abas-b718642a8/](https://www.linkedin.com/in/magdy-abas-b718642a8/)*/
+
 
 
 ## ⚡ Fun Fact
